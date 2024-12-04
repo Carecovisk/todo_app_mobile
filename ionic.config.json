@@ -1,0 +1,7 @@
+{
+  "name": "todo_app_mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
